@@ -1,0 +1,1 @@
+# Feature-vector-Generation-and-Analysis-for-Speech-Recognition-based-on-VQ
